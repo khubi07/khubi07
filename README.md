@@ -1,14 +1,4 @@
-# GitHub Profile README
-
-````html
 <h1 align="center">Hi 👋, I'm Khubi Sahu</h1>
-<h3 align="center">Second-year B.Tech CSE student • Backend Developer • AI-Powered Applications Enthusiast</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;AI%2FML+Explorer;React+%7C+Django+%7C+PyTorch;Building+Projects+and+Learning+Daily" alt="Typing SVG" />
-</p>
-
-<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/250967618-de30015f-dc5f-4ecf-a49b-ccd2b89776e4.gif">
 
 ---
 
@@ -80,51 +70,13 @@ while(alive):
     build()
     improve()
     repeat()
-````
 
-* 🔭 Currently building backend-focused and AI-integrated applications
-* 🧠 Practicing Data Structures & Algorithms
-* 📈 Exploring AI workflows, Deep Learning, and intelligent systems
-* 🎬 Also interested in creative editing and digital content creation
 
----
+🔭 Currently building backend-focused and AI-integrated applications
+🧠 Practicing Data Structures & Algorithms
+📈 Exploring AI workflows, Deep Learning, and intelligent systems
+🎬 Also interested in creative editing and digital content creation
 
-### 📊 GitHub Stats
+🧠 Quote I Like
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-### 🧠 Quote I Like
-
-> “Consistency compounds faster than motivation.”
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-```
-
-## 🔧 Things You Should Replace
-
-Replace these placeholders before uploading:
-
-* `YOUR_USERNAME` → your actual GitHub username
-* Add/remove tech stack icons according to your preference
-* Add portfolio/resume link later if you create one
-
-## 💡 Why This Version Feels Better
-
-* More modern and cleaner structure
-* Shows your current AI + full-stack direction
-* Better recruiter/student profile appeal
-* More visually balanced
-* Highlights both development and learning mindset
+“Consistency compounds faster than motivation.”
