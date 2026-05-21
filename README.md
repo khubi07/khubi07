@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Khubi Sahu</h1>
 
 ---
+<img align="right" alt="coding width="400" src="https://user-images.githubusercontent.com/74038190/250967618-de30015f-dc5f-4ecf-a49b-ccd2b89776e4.gif">
 
 ### 👨‍💻 About Me
 
